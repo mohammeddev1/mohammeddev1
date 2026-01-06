@@ -16,7 +16,10 @@ I'm a frontend developer who loves building clean, responsive, and accessible us
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+- Vue.js ( Option API )
+- Vuex ( state management )
 - React.js
+- sweetAlert2  (Integration with  Vue.js)
 - Alpine.js
 
 ### UI Frameworks & Styling
