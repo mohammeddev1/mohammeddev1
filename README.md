@@ -47,16 +47,8 @@ I'm a frontend developer who loves building clean, responsive, and accessible us
 
 ---
 
- 
-
----
-
 ## 📫 Contact
 - GitHub: [mohammeddev1](https://github.com/mohammeddev1)
 - Email:  mohammedhm.dev@gmail.com
 - LinkedIn: www.linkedin.com/in/mohammed-hussein-69a80b345
-
----
-
-
  
