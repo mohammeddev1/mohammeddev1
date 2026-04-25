@@ -18,7 +18,6 @@ I'm a frontend developer who loves building clean, responsive, and accessible us
 - JavaScript (ES6+)
 - Vue.js ( Option API )
 - Vuex ( state management )
-- React.js
 - sweetAlert2  (Integration with  Vue.js)
 - Alpine.js
 
@@ -50,5 +49,5 @@ I'm a frontend developer who loves building clean, responsive, and accessible us
 ## 📫 Contact
 - GitHub: [mohammeddev1](https://github.com/mohammeddev1)
 - Email:  mohammedhm.dev@gmail.com
-- LinkedIn: www.linkedin.com/in/mohammed-hussein-69a80b345
+- LinkedIn: www.linkedin.com/in/mohammed-hussein-121754405
  
