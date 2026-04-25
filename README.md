@@ -5,8 +5,7 @@ I'm a frontend developer who loves building clean, responsive, and accessible us
 ---
 
 ## 🚀 About Me
-- I’m currently teaching myself React.js through small projects and hands-on practice.
--  I’m open to any internship or training opportunities to gain real-world experience and improve my skills
+ -  I’m open to any internship or training opportunities to gain real-world experience and improve my skills
 
 ---
 
